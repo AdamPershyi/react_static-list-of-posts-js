@@ -1,5 +1,5 @@
-import { PostInfo } from '../PostInfo';
 import './PostList.scss';
+import { PostInfo } from '../PostInfo';
 
 export const PostList = ({ preparedPosts }) => (
   <div className="PostList">
